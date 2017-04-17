@@ -2,7 +2,7 @@
   "name": "formdemo",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "淡月清云 <imgwho@foxmail.com>",
+  "author": "imgwho <imgwho@foxmail.com>",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "css-loader": "^0.26.4",
+    "node-sass": "^4.5.2",
     "sass-loader": "^6.0.3",
     "vue": "^2.2.2",
     "vue-style-loader": "^2.0.5"
